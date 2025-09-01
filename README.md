@@ -17,7 +17,7 @@ I’m passionate about **software testing** and ensuring high-quality user exper
 - Continuous Integration & Testing workflows  
 
 ### 📫 How to reach me
-- Email: **ali2hmed@example.com**  
+- Email: **aliahmedyasser@hotmail.com**  
 - LinkedIn: [linkedin.com/in/alia2med](https://www.linkedin.com/in/alia2med/)   
 - GitHub: [github.com/ali2hmed](https://github.com/ali2hmed)  
 
