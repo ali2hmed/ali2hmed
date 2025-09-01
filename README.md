@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm Ali Ahmed  
 
-<!--
-**ali2hmed/ali2hmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **QA Tester | Intern | Future Automation Engineer**  
 
-Here are some ideas to get you started:
+I’m passionate about **software testing** and ensuring high-quality user experiences. Currently, I work on manual and API testing, while learning **TypeScript ** & ** Cypress** for automation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I’m working on
+- Manual & API testing for web applications  
+- Writing test cases, bug reports, and QA documentation  
+- Automating test flows using Cypress with TypeScript  
+
+### 🌱 What I’m learning
+- TypeScript for Cypress automation  
+- Best QA practices and testing strategies  
+- Continuous Integration & Testing workflows  
+
+### 📫 How to reach me
+- Email: **ali2hmed@example.com**  
+- LinkedIn: [linkedin.com/in/alia2med](https://www.linkedin.com/in/alia2med/)   
+- GitHub: [github.com/ali2hmed](https://github.com/ali2hmed)  
+
+---
+
+### 🛠 Tech & Tools
+- **Testing:** Cypress, Postman, Swagger, Chrome DevTools  
+- **Project Management:** Jira, Teams  
+- **Languages:** JavaScript, TypeScript (learning)  
+
+---
+
+### 📌 My Roadmap
+<a href="https://roadmap.sh">
+  <img src="https://roadmap.sh/card/wide/6864e2911ed6bc62a20006d9?variant=dark&roadmaps=%2Cqa" alt="roadmap.sh"/>
+</a>
+
+---
+
+⚡ **Fun Fact:** I believe testing is not about finding bugs, but preventing them 😉
