@@ -1,12 +1,13 @@
 # Hi, I'm Ali Ahmed 👋
 
-**QA Automation Engineer at [Baly](https://baly.iq)** · Baghdad, Iraq
+**QA Software Engineer at [Baly](https://baly.iq)** · Baghdad, Iraq
 
-I work on test automation for Baly's apps. Outside work I build web products.
+I work on manual and automated testing for Baly's apps. Outside work I build web products.
 
 ---
 
 ### 🧪 What I do
+- Manual testing: test cases, exploratory and regression testing
 - Test automation for web and mobile apps
 - Performance and load testing
 - API testing, bug reports and test documentation
