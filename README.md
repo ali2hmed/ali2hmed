@@ -1,32 +1,29 @@
-# Hi there 👋 I'm Ali Ahmed  
+# Hi, I'm Ali Ahmed 👋
 
-🚀 **QA Tester | Intern | Future Automation Engineer**  
+**QA Automation Engineer at [Baly](https://baly.iq)** · Baghdad, Iraq
 
-I’m passionate about **software testing** and ensuring high-quality user experiences. Currently, I work on manual and API testing, while learning **TypeScript ** & ** Cypress** for automation.  
-
----
-
-### 🔭 What I’m working on
-- Manual & API testing for web applications  
-- Writing test cases, bug reports, and QA documentation  
-- Automating test flows using Cypress with TypeScript  
-
-### 🌱 What I’m learning
-- TypeScript for Cypress automation  
-- Best QA practices and testing strategies  
-- Continuous Integration & Testing workflows  
-
-### 📫 How to reach me
-- Email: **aliahmedyasser@hotmail.com**  
-- LinkedIn: [linkedin.com/in/alia2med](https://www.linkedin.com/in/alia2med/)   
-- GitHub: [github.com/ali2hmed](https://github.com/ali2hmed)  
+I work on test automation for Baly's apps. Outside work I build web products.
 
 ---
 
-### 🛠 Tech & Tools
-- **Testing:** Cypress, Postman, Swagger, Chrome DevTools  
-- **Project Management:** Jira, Teams  
-- **Languages:** JavaScript, TypeScript (learning)  
+### 🧪 What I do
+- Test automation for web and mobile apps
+- Performance and load testing
+- API testing, bug reports and test documentation
+
+### 🛠 What I build
+- **BabLoot**: a marketplace for game accounts, top-ups and gift cards in Iraq, with escrow on every order *(React, Go, PostgreSQL)*
+- **VenoMind**: a puzzle games platform with real-time multiplayer *(Next.js, Redis, PostgreSQL)*
+- **[AL-Saqer Legal Consultations](https://al-saqer.com.iq)**: website for an Iraqi law firm *(React, Sanity CMS)*
+
+---
+
+### 🧰 Tools
+- **Testing:** k6, Playwright, Appium, Cypress, Postman, pytest
+- **Languages:** JavaScript, TypeScript, Python, Go
+- **Web:** React, Next.js, Tailwind CSS
+- **Data and infra:** PostgreSQL, Redis, Docker, Linux, Nginx
+- **Workflow:** Git, Jira
 
 ---
 
@@ -37,4 +34,6 @@ I’m passionate about **software testing** and ensuring high-quality user exper
 
 ---
 
-⚡ **Fun Fact:** I believe testing is not about finding bugs, but preventing them 😉
+### 📫 Contact
+- Email: **aliahmedyasser@hotmail.com**
+- LinkedIn: [linkedin.com/in/alia2med](https://www.linkedin.com/in/alia2med/)
